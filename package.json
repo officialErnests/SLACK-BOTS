@@ -1,0 +1,25 @@
+{
+  "name": "noobinator",
+  "version": "1.0.0",
+  "description": "Yes",
+  "homepage": "https://github.com/officialErnests/SLACK-BOTS#readme",
+  "bugs": {
+    "url": "https://github.com/officialErnests/SLACK-BOTS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialErnests/SLACK-BOTS.git"
+  },
+  "license": "ISC",
+  "author": "n0o0b090lv /w that one guy from internet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2"
+  },
+  "devDependencies": {}
+}
